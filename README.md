@@ -31,6 +31,5 @@ Lifestyle factors such as smoking are associated with elevated risk categories.
 
 <img src="CVD Dashboard.png" width="800">
 
-**Outcome:**
-The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support   data-driven health risk assessment.
+**Outcome:**The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support   data-driven health risk assessment.
 The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support data-driven health risk assessment.
