@@ -12,9 +12,9 @@ Excel – Data cleaning, handling inconsistencies, removing duplicates, calculat
 Power BI – Data modeling, dashboard creation
 
 **Key KPIs Created:**
-Total Patients
-High Risk patients
-Low Risk Patients
+Total Patients, 
+High Risk patients, 
+Low Risk Patients.
 
 **Dashboard Features:**
 Interactive filters for Gender, Age Group, and Risk Level. 
@@ -23,8 +23,8 @@ Pie chart for CVD Risk Distribution.
 KPI cards for summary metrics.
 
 **Key Insights:**
-Higher BMI categories show increased cardiovascular risk levels.
-Patients with hypertension demonstrate higher average CVD risk scores.
+Higher BMI categories show increased cardiovascular risk levels. 
+Patients with hypertension demonstrate higher average CVD risk scores. 
 Lifestyle factors such as smoking are associated with elevated risk categories.
 
 **Dashboard Preview:**
@@ -32,4 +32,3 @@ Lifestyle factors such as smoking are associated with elevated risk categories.
 <img src="CVD Dashboard.png" width="800">
 
 **Outcome:** The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support   data-driven health risk assessment.
-The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support data-driven health risk assessment.
