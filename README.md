@@ -1,6 +1,6 @@
 # Cardiovascular Health & Risk Anlysis Using Clinical and Lifestyle Data
 
-**Project Overview:**
+**Project Overview:**  
 This project focuses on analyzing cardiovascular health data to identify patterns and risk factors associated with heart disease. The objective is to transform  raw healthcare data into meaningful insights using Excel and Power BI.
 
 **Objectives:**  
@@ -10,7 +10,7 @@ Examine relationships between lifestyle factors (smoking, physical activity) and
 Build an interactive dashboard to visualize key health insights.  
 
 **Tools & Technologies Used:**  
-Excel – Data cleaning,handling inconsistencies, removing duplicates, calculated columns, data preprocessing  
+Excel – Data cleaning, handling inconsistencies, removing duplicates, calculated columns, data preprocessing  
 Power BI – Data modeling, dashboard creation
 
 **Key KPIs Created:**  
@@ -33,4 +33,4 @@ Lifestyle factors such as smoking are associated with elevated risk categories.
 
 <img src="CVD Dashboard.png" width="800">
 
-**Outcome:** The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support   data-driven health risk assessment.
+**Outcome:**   The project demonstrates the ability to clean healthcare data, create calculated measures using DAX, and develop an interactive Power BI dashboard to support   data-driven health risk assessment.
