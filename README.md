@@ -1,7 +1,7 @@
 # Cardiovascular Health & Risk Anlysis Using Clinical and Lifestyle Data
 
 **Project Overview:**  
-This project focuses on analyzing cardiovascular health data to identify patterns and risk factors associated with heart disease. The objective is to transform  raw healthcare data into meaningful insights using Excel and Power BI.
+This project focuses on analyzing cardiovascular health data to identify patterns and risk factors associated with heart disease.  The objective is to transform  raw healthcare data into meaningful insights using Excel and Power BI.
 
 **Objectives:**  
 Analyze patient health indicators such as BMI, cholesterol, blood pressure, and fasting blood sugar.  
