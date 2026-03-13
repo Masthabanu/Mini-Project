@@ -21,7 +21,7 @@ Low Risk Patients.
 **Dashboard Features:**  
 Interactive filters for Gender, Age Group, and Risk Level.  
 Bar charts for BMI and Blood Pressure categories.  
-Pie chart for CVD Risk Distribution. 
+Pie chart for CVD Risk Distribution.  
 KPI cards for summary metrics.
 
 **Key Insights:**  
