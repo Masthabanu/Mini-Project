@@ -33,7 +33,7 @@ This project focuses on analyzing cardiovascular health data to identify pattern
 
 <img src="CVD Dashboard.png" width="800">
 
-**Outcome:**  
+**Conclusion:**  
 **This project demonstrates the ability to:**
 - Clean and preprocess healthcare data to handle inconsistencies and missing values.  
 - Analyze clinical and lifestyle indicators to identify cardiovascular risk patterns.  
